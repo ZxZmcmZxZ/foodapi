@@ -5,30 +5,30 @@
          "nome":"Arroz branco",
          "quantidade":"100",
          "unidade":"gramas",
-         "calorias ":"130kcal",
-         "Carboidratos":"28,2g",
-         "Proteína":"2,7g",
-         "Gordura":"0,3g"
+         "calorias ":"130",
+         "Carboidratos":"28,2",
+         "Proteína":"2,7",
+         "Gordura":"0,3"
       },
       {
          "id":"2",
          "nome":"Manteiga",
-         "quantidade":" 100",
+         "quantidade":"100",
          "unidade":"gramas",
-         "calorias ":"717kcal",
-         "Carboidratos":"0.1g",
-         "Proteína":"0,9g",
-         "Gordura":"81,1g"
+         "calorias ":"717",
+         "Carboidratos":"0.1",
+         "Proteína":"0,9",
+         "Gordura":"81,1"
       },
       {
          "id":"3",
          "nome":"Frango cozido",
-         "quantidade":" 100",
+         "quantidade":"100",
          "unidade":"gramas",
-         "calorias ":"258kcal",
-         "Carboidratos":"0g",
-         "Proteína":"22,2g",
-         "Gordura":"18,1g"
+         "calorias ":"258",
+         "Carboidratos":"0",
+         "Proteína":"22,2",
+         "Gordura":"18,1"
       }
    ]
 }
